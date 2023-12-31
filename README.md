@@ -1,2 +1,2 @@
 # Omnifood
- https://app.netlify.com/sites/omnifood-sumanta/overview
+ [Live version](https://omnifood-sumanta.netlify.app/)https://omnifood-sumanta.netlify.app/
