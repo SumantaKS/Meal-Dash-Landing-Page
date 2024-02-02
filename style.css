@@ -84,8 +84,9 @@ Landing Page's NAV bar
   display: none;
 }
 
-.omnifood-logo {
-  height: 2.2rem;
+.mealdash-logo {
+  height: 7.2rem;
+  width: 12.2rem;
 }
 .sticky .hero-header {
   position: fixed;
@@ -712,4 +713,16 @@ FOOTER
 }
 .copyright {
   font-size: 1.4rem;
+}
+
+a:active, a:focus, li:focus, li:active {
+  outline: none !important;
+  border: none !important;        
+  text-decoration: none !important;
+  box-shadow: none !important;
+  -webkit-tap-highlight-color: transparent !important;
+  -webkit-user-select: none; /* Chrome/Safari */
+  -moz-user-select: none; /* Firefox */
+  -ms-user-select: none; /* IE10+ */
+  user-select: none;
 }
